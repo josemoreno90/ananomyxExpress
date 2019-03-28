@@ -13,6 +13,7 @@
   "author": "Jose Moreno",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.9.8"
   }
 }
